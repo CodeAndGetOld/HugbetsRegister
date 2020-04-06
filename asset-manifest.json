@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HugbetsRegister/static/css/main.e683336e.chunk.css",
+    "main.js": "/HugbetsRegister/static/js/main.9d8ed99d.chunk.js",
+    "main.js.map": "/HugbetsRegister/static/js/main.9d8ed99d.chunk.js.map",
+    "runtime-main.js": "/HugbetsRegister/static/js/runtime-main.6146f5e9.js",
+    "runtime-main.js.map": "/HugbetsRegister/static/js/runtime-main.6146f5e9.js.map",
+    "static/js/2.f2804e8a.chunk.js": "/HugbetsRegister/static/js/2.f2804e8a.chunk.js",
+    "static/js/2.f2804e8a.chunk.js.map": "/HugbetsRegister/static/js/2.f2804e8a.chunk.js.map",
+    "index.html": "/HugbetsRegister/index.html",
+    "precache-manifest.d8c316b355b04438548239ca4eb0a69b.js": "/HugbetsRegister/precache-manifest.d8c316b355b04438548239ca4eb0a69b.js",
+    "service-worker.js": "/HugbetsRegister/service-worker.js",
+    "static/css/main.e683336e.chunk.css.map": "/HugbetsRegister/static/css/main.e683336e.chunk.css.map",
+    "static/js/2.f2804e8a.chunk.js.LICENSE.txt": "/HugbetsRegister/static/js/2.f2804e8a.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/HugbetsRegister/static/media/logo.1d6336b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6146f5e9.js",
+    "static/js/2.f2804e8a.chunk.js",
+    "static/css/main.e683336e.chunk.css",
+    "static/js/main.9d8ed99d.chunk.js"
+  ]
+}
